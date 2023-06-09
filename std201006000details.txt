@@ -1,0 +1,6 @@
+Name: Ibrahim Ahmed Nemer
+studId: 201006000
+Level(s): G
+Number of Terms: 4,6
+Colleges(s): College1
+Department(s): C1Department1

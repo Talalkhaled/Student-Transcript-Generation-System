@@ -1,0 +1,16 @@
+Level,Degree,Term,courseName,courseID,courseType,creditHours,Grade
+G,D1,1,CourseY1,CY1,Major,3,85
+G,D1,1,CourseY6,CY6,Minor,3,85
+G,D1,2,CourseY11,CY11,Major,3,85
+G,D1,2,CourseY16,CY16,Minor,3,84
+G,D1,3,CourseY21,CY21,Major,3,95
+G,D1,3,CourseY26,CY26,Minor,3,87
+G,D1,4,CourseY31,CY31,Major,3,88
+G,D1,4,CourseY36,CY36,Minor,3,85
+G,D1,5,CourseY41,CY41,Major,3,90
+G,D1,5,CourseY46,CY46,Minor,3,85
+G,D1,5,CourseY47,CY47,Minor,3,96
+G,D1,6,CourseY51,CY51,Major,3,92
+G,D1,6,CourseY56,CY56,Minor,3,85
+G,D1,6,CourseY57,CY57,Minor,3,88
+G,D1,7,CourseY67,CY67,Minor,3,88
